@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/^ECF84E2EB1A93EDC79BA6D76C998BD0786160C426652807823^pimgpsh_fullsize_distr.jpg</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/62ae0708f0.mp3</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/ball.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/BlackSky.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/blue.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/blue2.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/blue3.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/green.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/green2.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/Kepler186f-ArtistConcept-20140417.jpg</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/Kyle Richards - Wave Fight 5.mp3</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/maxresdefault.jpg</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/red.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/s120014250.webp</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/ship2.x</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/shuttle.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/SmileyWalk.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/stars.jpg</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/Text.spritefont</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/white.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/yellow.png</File>
+    <File>D:/!Projects/VisualStudioProjects/Spacewar/Content/ZLR2nRL5huk.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Cat.jpg</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>gasGigantBG.jpg</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
